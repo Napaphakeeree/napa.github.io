@@ -1,0 +1,761 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1200px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-rectangle1 {
+  top: -373px;
+  left: 0px;
+  width: 2048px;
+  height: 1595px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop1-group8 {
+  top: -10px;
+  left: 317px;
+  width: 839px;
+  height: 295px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text10 {
+  top: 182.38613891601562px;
+  left: 4.3099212646484375px;
+  color: rgba(0, 0, 0, 0.6200000047683716);
+  width: 835px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Tilt Warp;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text11 {
+  color: rgba(0, 0, 0, 0.6200000047683716);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  top: 165.6336669921875px;
+  left: 10.267745971679688px;
+  color: rgba(0, 0, 0, 0.6200000047683716);
+  width: 175px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jaro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle4 {
+  top: 309px;
+  left: 511px;
+  width: 754px;
+  height: 846px;
+  position: absolute;
+  border-color: rgba(115, 139, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-text13 {
+  top: 326px;
+  left: 1156px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle13 {
+  top: 431px;
+  left: 580px;
+  width: 658px;
+  height: 233px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-rectangle14 {
+  top: 757px;
+  left: 580px;
+  width: 658px;
+  height: 281px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-rectangle15 {
+  top: 717px;
+  left: 620px;
+  width: 340px;
+  height: 55px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-text14 {
+  top: 817px;
+  left: 781px;
+  color: rgba(0, 0, 0, 1);
+  width: 451px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle16 {
+  top: 397px;
+  left: 620px;
+  width: 286px;
+  height: 55px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-rectangle2 {
+  top: 376px;
+  left: 16px;
+  width: 754px;
+  height: 846px;
+  position: absolute;
+  border-color: rgba(115, 139, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-rectangle9 {
+  top: 505px;
+  left: 64px;
+  width: 658px;
+  height: 233px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-rectangle11 {
+  top: 819px;
+  left: 64px;
+  width: 658px;
+  height: 233px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-rectangle10 {
+  top: 481px;
+  left: 60px;
+  width: 451px;
+  height: 55px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-rectangle12 {
+  top: 791px;
+  left: 60px;
+  width: 232px;
+  height: 55px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-text15 {
+  top: 486px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text16 {
+  top: 791px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text17 {
+  top: 558px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 467px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text18 {
+  top: 600px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 275px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text19 {
+  top: 648px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 509px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text20 {
+  top: 956px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 625px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text21 {
+  top: 869px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 649px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text22 {
+  top: 911px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 579px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-yellowbg {
+  top: -77px;
+  left: 1273px;
+  width: 783px;
+  height: 815px;
+  position: absolute;
+}
+.desktop1-group5 {
+  top: -25px;
+  left: 1194px;
+  width: 725.875px;
+  height: 781.962158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector10 {
+  top: 40px;
+  left: 72px;
+  width: 82px;
+  height: 90px;
+  position: absolute;
+}
+.desktop1-vector11 {
+  top: 692px;
+  left: 644px;
+  width: 82px;
+  height: 90px;
+  position: absolute;
+}
+.desktop1-vector12 {
+  top: 110.51025390625px;
+  left: 162.9837646484375px;
+  width: 62px;
+  height: 56px;
+  position: absolute;
+}
+.desktop1-group4 {
+  top: 132.8896026611328px;
+  left: 34.288726806640625px;
+  width: 66.74015808105469px;
+  height: 80.51309204101562px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 67px;
+  height: 81px;
+  position: absolute;
+}
+.desktop1-group10 {
+  top: 50.3870849609375px;
+  left: 207.91444396972656px;
+  width: 21.114795684814453px;
+  height: 25.573917388916016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 26px;
+  position: absolute;
+}
+.desktop1-group11 {
+  top: 85.32241821289062px;
+  left: 0px;
+  width: 17.284008026123047px;
+  height: 20.940073013305664px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 21px;
+  position: absolute;
+}
+.desktop1-group12 {
+  top: 0px;
+  left: 55.75414276123047px;
+  width: 23.809335708618164px;
+  height: 28.838672637939453px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector16 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 29px;
+  position: absolute;
+}
+.desktop1-vector17 {
+  top: 14.416008949279785px;
+  left: 175.6710662841797px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.desktop1-group9 {
+  top: 821px;
+  left: 1353px;
+  width: 503px;
+  height: 245px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-group2 {
+  top: 132px;
+  left: 172px;
+  width: 331px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text23 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.desktop1-text24 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-group6 {
+  top: 196px;
+  left: 95px;
+  width: 265px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-group1 {
+  top: 15px;
+  left: 77px;
+  width: 188px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text25 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector18 {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 49px;
+  position: absolute;
+}
+.desktop1-group7 {
+  top: 57px;
+  left: 95px;
+  width: 236px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-group3 {
+  top: 12px;
+  left: 77px;
+  width: 159px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text26 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector19 {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 53px;
+  position: absolute;
+}
+.desktop1-rectangle3 {
+  top: 392px;
+  left: 620px;
+  width: 112px;
+  height: 32px;
+  position: absolute;
+}
+.desktop1-rectangle5 {
+  top: 392px;
+  left: 620px;
+  width: 112px;
+  height: 32px;
+  position: absolute;
+}
+.desktop1-rectangle6 {
+  top: 326px;
+  left: 1016px;
+  width: 112px;
+  height: 32px;
+  position: absolute;
+}
+.desktop1-text27 {
+  top: 394px;
+  left: 640px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text28 {
+  top: 394px;
+  left: 535px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text29 {
+  top: 326px;
+  left: 1040px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text30 {
+  top: 394px;
+  left: 50px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text31 {
+  top: 326px;
+  left: 534px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text32 {
+  top: 403px;
+  left: 778px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle18 {
+  top: 477px;
+  left: 792px;
+  width: 50px;
+  height: 49px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle19 {
+  top: 471px;
+  left: 1037px;
+  width: 53px;
+  height: 52px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle21 {
+  top: 475px;
+  left: 851px;
+  width: 55px;
+  height: 52px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle23 {
+  top: 543px;
+  left: 852px;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle24 {
+  top: 474px;
+  left: 974px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle25 {
+  top: 475px;
+  left: 912px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle22 {
+  top: 475px;
+  left: 955px;
+  width: 33px;
+  height: 34px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-rectangle20 {
+  top: 536px;
+  left: 765px;
+  width: 103px;
+  height: 73px;
+  position: absolute;
+  border-radius: 5px;
+}
+.desktop1-text33 {
+  top: 724px;
+  left: 791px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-email {
+  top: 941px;
+  left: 1444px;
+  width: 56px;
+  height: 58px;
+  position: absolute;
+}
